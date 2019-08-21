@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5a5b931-031f-4902-98e5-150141be94a6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>result</find>
+      <find>selection</find>
+      <find>today</find>
+      <find>fps</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test-kivy/calculator.py" />
+        <option value="$PROJECT_DIR$/test-kivy/converter.kv" />
+        <option value="$PROJECT_DIR$/test-kivy/face.kv" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy4.py" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy3.py" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy3.kv" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy5.kv" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy5.py" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy2.py" />
+        <option value="$PROJECT_DIR$/test-kivy/my.kv" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy3(screenmanager).py" />
+        <option value="$PROJECT_DIR$/test-kivy/KivyCalendar/calendar_ui.py" />
+        <option value="$PROJECT_DIR$/test-kivy/KivyCalendar/__init__.py" />
+        <option value="$PROJECT_DIR$/test-kivy/KivyCalendar/calendar_data.py" />
+        <option value="$PROJECT_DIR$/test-kivy/calendar_data.py" />
+        <option value="$PROJECT_DIR$/test-kivy/calendar_ui.py" />
+        <option value="$PROJECT_DIR$/test-kivy/kivy6(calendar)" />
+        <option value="$PROJECT_DIR$/test-kivyy/kivy6(calendar)" />
+        <option value="$PROJECT_DIR$/testkivy/calendar.kv" />
+        <option value="$PROJECT_DIR$/testkivy/kivy6(calendar)" />
+        <option value="$PROJECT_DIR$/calendar_data.py" />
+        <option value="$PROJECT_DIR$/tgl.py" />
+        <option value="$PROJECT_DIR$/testkivy/kalender.py" />
+        <option value="$PROJECT_DIR$/calendar_ui.py" />
+        <option value="$PROJECT_DIR$/kivy6(calendar)" />
+        <option value="$PROJECT_DIR$/kivy8-spinner.py" />
+        <option value="$PROJECT_DIR$/testkivy/kivy8-spinner.py" />
+        <option value="$PROJECT_DIR$/testkivy/kivy7-test.py" />
+        <option value="$PROJECT_DIR$/testkivy/kivy-encod.py" />
+        <option value="$PROJECT_DIR$/testkivy/kivy-GUI.py" />
+        <option value="$PROJECT_DIR$/testkivy/kivy-camera.py" />
+        <option value="$PROJECT_DIR$/testkivy/train/30 sample.py" />
+        <option value="$PROJECT_DIR$/testkivy/10sample.py" />
+        <option value="$PROJECT_DIR$/testkivy/20encod.py" />
+        <option value="$PROJECT_DIR$/testkivy/30encod.py" />
+        <option value="$PROJECT_DIR$/testkivy/eigenface-train.py" />
+        <option value="$PROJECT_DIR$/testkivy/encod-train.py" />
+        <option value="$PROJECT_DIR$/testkivy/30sample.py" />
+        <option value="$PROJECT_DIR$/testkivy/encod20.py" />
+        <option value="$PROJECT_DIR$/testkivy/encod30.py" />
+        <option value="$PROJECT_DIR$/testkivy/encod40.py" />
+        <option value="$PROJECT_DIR$/testkivy/20sample.py" />
+        <option value="$PROJECT_DIR$/testkivy/40sample/Pramita Retno Ayuning Tyas/data.txt" />
+        <option value="$PROJECT_DIR$/testkivy/kivy6-calender.py" />
+        <option value="$PROJECT_DIR$/testkivy/40sample/Bachtiar Pramadi/data.txt" />
+        <option value="$PROJECT_DIR$/testkivy/antika.py" />
+        <option value="$PROJECT_DIR$/testkivy/40sample.py" />
+        <option value="$PROJECT_DIR$/face-recoginition.py" />
+        <option value="$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py" />
+        <option value="$PROJECT_DIR$/Fece _Recognition/edit.txt" />
+        <option value="$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tkinter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tkinter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fece _Recognition" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python\PyCharm\Tkinter\Fece _Recognition" />
+      <recent name="C:\Python\PyCharm\Tkinter\testkivy\imgs" />
+      <recent name="C:\Python\PyCharm\Tkinter\testkivy\20sample\Pramita Retno Ayuning Tyas" />
+      <recent name="C:\Python\PyCharm\Tkinter\testkivy\30sample\Pramita Retno Ayuning Tyas" />
+      <recent name="C:\Python\PyCharm\Tkinter\testkivy\40sample\Pramita Retno Ayuning Tyas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\PyCharm\Tkinter\Fece _Recognition" />
+      <recent name="C:\Python\PyCharm\Tkinter\Fece  Recognition" />
+      <recent name="C:\Python\PyCharm\Tkinter\testkivy\30sample\Pramita Retno Ayuning Tyas" />
+      <recent name="C:\Python\PyCharm\Tkinter\testkivy\20sample" />
+      <recent name="C:\Python\PyCharm\Tkinter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.face-recoginition-encod">
+    <configuration name="8_calendar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_calendar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_dropdown" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_dropdown.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face-recoginition-encod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fece _Recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face-recogntion-eigen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fece _Recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face-recoginition-encod" />
+        <item itemvalue="Python.face-recogntion-eigen" />
+        <item itemvalue="Python.9_GUI" />
+        <item itemvalue="Python.8_dropdown" />
+        <item itemvalue="Python.8_calendar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a5b931-031f-4902-98e5-150141be94a6" name="Default Changelist" comment="" />
+      <created>1558148411657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558148411657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2721417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.171875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2721417" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testkivy/encod20.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/encod40.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/imgs/131601006.png" />
+    <entry file="file://$PROJECT_DIR$/testkivy/40sample/Pramita Retno Ayuning Tyas/data.txt" />
+    <entry file="file://$PROJECT_DIR$/testkivy/20sample/Pramita Retno Ayuning Tyas/data.txt" />
+    <entry file="file://$PROJECT_DIR$/testkivy/30sample/Pramita Retno Ayuning Tyas/data.txt" />
+    <entry file="file://$PROJECT_DIR$/testkivy/imgs/1316010100.png" />
+    <entry file="file://$PROJECT_DIR$/testkivy/imgs/1316010078.png" />
+    <entry file="file://$PROJECT_DIR$/testkivy/imgs/1316010088.png" />
+    <entry file="file://$PROJECT_DIR$/testkivy/40sample/Ichsan Kurniawan/data.txt" />
+    <entry file="file://$PROJECT_DIR$/testkivy/imgs/1316010006.png" />
+    <entry file="file://$PROJECT_DIR$/testkivy/imgs/1316010028.png" />
+    <entry file="file://$PROJECT_DIR$/testkivy/40sample/Bachtiar Pramadi/data.txt" />
+    <entry file="file://$PROJECT_DIR$/testkivy/40sample/Ichsan Kurniawan/8.jpg" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy3.kv" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy5.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy7-test.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/20sample.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/30sample.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy-GUI.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/encod30.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/kivy6(calendar)" />
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-detect.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../py2php/tgl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testkivy/antika.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy-encod.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy2.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/train/20sample.yml" />
+    <entry file="file://$PROJECT_DIR$/testkivy/train/30sample.yml" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy-camera.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy6-calender.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/eigenface-train.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/encod-train.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy4.py" />
+    <entry file="file://$PROJECT_DIR$/testkivy/kivy3(screenmanager).py" />
+    <entry file="file://$PROJECT_DIR$/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testkivy/40sample.py" />
+    <entry file="file://$PROJECT_DIR$/ttkcalendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkSimpleDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#361#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#360#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/ttkcalendar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/edit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="159" column="4" lean-forward="true" selection-start-line="159" selection-start-column="4" selection-end-line="161" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.py" />
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="136" column="27" selection-start-line="136" selection-start-column="27" selection-end-line="136" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

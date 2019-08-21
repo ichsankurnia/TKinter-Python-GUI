@@ -1,0 +1,1 @@
+{"bio": [{"Name": "yahya abd", "N I M": "1316010059", "Class": "EC6B", "Date of Birth": "2019-11-09", "Gender": "P", "Address": "zxcc", "Telp": "435", "E-Mail": "@abs"}]}

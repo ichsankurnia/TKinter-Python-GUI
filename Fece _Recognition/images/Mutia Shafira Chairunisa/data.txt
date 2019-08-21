@@ -1,0 +1,1 @@
+{"bio": [{"Name": "Mutia Shafira Chairunisa", "N I M": "1316010050", "Class": "EC6B", "Date of Birth": "1998-09-28", "Gender": "P", "Address": "Jl Cilandak KKO", "Telp": "+62857", "E-Mail": "shafirach98@gmail.com"}]}

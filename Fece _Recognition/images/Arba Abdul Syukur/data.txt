@@ -1,0 +1,1 @@
+{"bio": [{"Name": "Arba Abdul Syukur", "N I M": "1316010015", "Class": "EC6B", "Date of Birth": "1997-11-25", "Gender": "", "Address": "Tj Priok", "Telp": "0218989", "E-Mail": "@atunkers"}]}
