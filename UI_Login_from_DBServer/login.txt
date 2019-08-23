@@ -1,0 +1,14 @@
+yahya.abdurr@gmail.com;konkoo53;Yahya Abdurrozaq;1316010059
+arba@gmail.com;123;Arba Abdul S;1316010069
+bepe@gmail.com;bepe;Bachtiar Pramadi;1316010057
+habib@gmail.com;123;Habibburahman;1316010078
+ichsan@gmail.com;123;Ichsan Kurniawan;1316010006
+maya@gmail.com;123;Maya Ayuningtyas;1316010079
+nada@gmail.com;123;Nada Fathimah;1316010063
+tyas@gmail.com;123;Pramitha Retno A;1316010043
+raka@gmail.com;123;Raka Priatnanugraha;1316010088
+irfan@gmail.com;123;Tri Irfan;1316010070
+mamih@gmail.com;12345;Faris ABdul Azis;1316010037
+paijo@gmail.com;123;paijo syukur;1310010069
+gladis@gmail.com;123;gladis;13160788
+bambang@gmail.com;123;bambang;131610231123
