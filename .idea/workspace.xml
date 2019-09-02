@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a5b931-031f-4902-98e5-150141be94a6" name="Default Changelist" comment="" />
+    <list default="true" id="d5a5b931-031f-4902-98e5-150141be94a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Fece _Recognition/edit.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1077">
+              <caret line="195" column="27" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,9 +95,9 @@
         <option value="$PROJECT_DIR$/testkivy/antika.py" />
         <option value="$PROJECT_DIR$/testkivy/40sample.py" />
         <option value="$PROJECT_DIR$/face-recoginition.py" />
-        <option value="$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py" />
         <option value="$PROJECT_DIR$/Fece _Recognition/edit.txt" />
         <option value="$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py" />
+        <option value="$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py" />
       </list>
     </option>
   </component>
@@ -98,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,12 +123,13 @@
             <path>
               <item name="Tkinter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tkinter" type="462c0819:PsiDirectoryNode" />
-              <item name="UI_Login_from_DBServer" type="462c0819:PsiDirectoryNode" />
+              <item name="Fece _Recognition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,6 +292,14 @@
       <option name="presentableId" value="Default" />
       <updated>1558148411657</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;remove frame photo&quot;">
+      <created>1567436290185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567436290186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -290,6 +313,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -330,6 +354,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;remove frame photo&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;remove frame photo&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testkivy/encod20.py" />
@@ -446,27 +474,10 @@
     <entry file="file://$PROJECT_DIR$/Fece _Recognition/ttkcalendar.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fece _Recognition/edit.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="159" column="4" lean-forward="true" selection-start-line="159" selection-start-column="4" selection-end-line="161" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7.py" />
     <entry file="file://$PROJECT_DIR$/UI-face-recognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="-1768">
           <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -474,9 +485,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recoginition-encod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="368" column="48" selection-start-line="368" selection-start-column="48" selection-end-line="368" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fece _Recognition/edit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
+        <state relative-caret-position="-1077">
           <caret line="195" column="27" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
