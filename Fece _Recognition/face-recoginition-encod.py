@@ -368,10 +368,6 @@ classLabel.grid(row=2, column=1, padx=5, pady=5)
 classEntry = Entry(absentsPage, width=30, textvariable=absClass)
 classEntry.grid(row=2, column=2, padx=5, pady=5)
 
-# print(img)
-panel = Label(absentsPage, image = "")
-panel.grid(row=1, column=3, padx=5, pady=5)
-
 sendButton = Button(absentsPage, width=20, text="Confirm", command=sendData)
 sendButton.grid(row=4, column=3, padx=5, pady=5)
 
