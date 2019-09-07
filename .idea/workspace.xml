@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a5b931-031f-4902-98e5-150141be94a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Fece _Recognition/edit.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="d5a5b931-031f-4902-98e5-150141be94a6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1077">
-              <caret line="195" column="27" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+            <state relative-caret-position="368">
+              <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -119,11 +117,6 @@
             <path>
               <item name="Tkinter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tkinter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tkinter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tkinter" type="462c0819:PsiDirectoryNode" />
-              <item name="Fece _Recognition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567436290186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;deleting edit.txt&quot;">
+      <created>1567436399564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567436399564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -313,7 +313,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19345239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,7 +356,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;remove frame photo&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;remove frame photo&quot;" />
+    <MESSAGE value="&quot;deleting edit.txt&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;deleting edit.txt&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testkivy/encod20.py" />
@@ -504,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fece _Recognition/face-recogntion-eigen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1077">
-          <caret line="195" column="27" selection-start-line="195" selection-start-column="27" selection-end-line="195" selection-end-column="27" />
+        <state relative-caret-position="368">
+          <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
